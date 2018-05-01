@@ -1,5 +1,5 @@
 # Should You Stay In College
-Group assignment for CSC463 Fundamental Artificial Intelligence, FSKM UiTM SHAH ALAM, SELANGOR.
+Group assignment for CSC463 Fundamental Artificial Intelligence, FSKM UiTM Shah Alam, Selangor.
 
 ## Description 
 This repository contains source code for our assignnment 
